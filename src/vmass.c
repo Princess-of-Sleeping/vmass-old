@@ -1,6 +1,6 @@
 /*
  *
- * PlayStation(R)Vita Virtual Mass Header
+ * PlayStation(R)Vita Virtual Mass
  *
  * Copyright (C) 2020 Princess of Slepping
  *
